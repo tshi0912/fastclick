@@ -3,3 +3,5 @@
 Thumbs.db
 Desktop.ini
 build
+.idea/
+node_modules/
